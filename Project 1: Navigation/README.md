@@ -44,4 +44,7 @@ Source: https://github.com/udacity/deep-reinforcement-learning/blob/master/p1_na
  * Cell 12: Trains the NavAgent in the environment while keeping track of the score.
  
  ### To observe a trained agent
- Load the network weights included in this repository and observe the resulting score of the NavAgent
+ * Load the network weights included in this repository and observe the resulting score of the NavAgent. 
+ 
+ ## Project Results/Discussion
+ * The project results, including a plot of score results and a detailed explanation of the algorithm theory and implementation, are included in the Report_Navigation.pdf
