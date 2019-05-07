@@ -41,7 +41,7 @@ screen, and then download the environment for the Linux operating system above.)
 #### Additional Steps
  * Adjust the line in cell 2 of the Jupyter notebook to match the location of the downloaded environment file depending on the system setup 
  that the notebook is run on.
- * Note: Running the Jupyter notebook included in thisProject 1: Continuous Control repository will not display the agent as it is training.
+ * Note: Running the Jupyter notebook included in this Project 2: Continuous Control repository will not display the agent as it is training.
  
  ## Instructions
  
@@ -52,7 +52,7 @@ screen, and then download the environment for the Linux operating system above.)
 
 * Cell 6: Defines the Actor and Critic Network
 * Cell 7: Defines DDPGAgent, OUNoise, and ReplayBuffer
-    * NavAgent is the DQN agent
+    * DDPGAgent is the DDPG agent
     * OUNoise is a an Ornstein-Uhlenbeck noise process
     * ReplayBuffer is the memory buffer
 * Cell 10: Initializes and creates a DDPGAgent with the environment parameters. 
