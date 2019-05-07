@@ -65,5 +65,4 @@ with the network it corresponds to.
       * continuousControlcheckpoint_actor_target.pth = actor target network weights
  
  ## Project Results/Discussion
- * The project results, including a plot of score results and a detailed explanation of the algorithm theory and implementation, are included
- in the Report_Continuous Control.pdf
+ * The project results, including a plot of score results and a detailed explanation of the algorithm theory and implementation, are included in the Report_ContinuousControl.pdf
